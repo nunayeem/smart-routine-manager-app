@@ -1,4 +1,4 @@
-# city_smart_routine_manager
+# City University Smart Routine Manager
 
 CityU Routine Manager is a Flutter-based mobile application designed specifically for City University Bangladesh students and faculty to digitally manage and access academic schedules. The app provides an intuitive platform to view class routines and exam timetables department-wise and semester-wise, ensuring students stay organized and up to date with their daily and exam schedules.
 
